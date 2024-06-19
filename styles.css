@@ -1,0 +1,36 @@
+html{
+background-color:rgb(57, 55, 55) ;
+}
+p1{
+    color:white;
+}
+h1{
+    color:white;
+    font-size:20pt
+}
+h2{
+    color:white;
+}
+h3{
+    color:white
+}
+h4{
+    text-align:center;
+    color:white
+}
+ol{
+    color:white
+}
+ul{
+    color:white
+}
+p{
+    color:white
+}
+footer{
+    color:white
+}
+#image{
+    border-style:ridge;
+    padding:2px
+}
